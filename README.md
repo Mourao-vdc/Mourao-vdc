@@ -51,5 +51,5 @@
 
 <p align="center">
 <a href="https://www.instagram.com/mourao_andre13/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mourao_andre13-blue?style=flat-square&logo=instagram"></a>
-<a href="affmourao@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="affmourao@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-affmourao@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
