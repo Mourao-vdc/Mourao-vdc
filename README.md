@@ -11,7 +11,8 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C#](	https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=purple)
+  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=purple)
+  ![Xamarin](https://img.shields.io/badge/Xamarin-333333?style=flat&logo=xamarin&logoColor=blue)
   ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=orange)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
