@@ -29,7 +29,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
+  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 - 🔧 &nbsp;
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-333333?style=flat&logo=visual%20studio&logoColor=purple)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
