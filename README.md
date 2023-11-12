@@ -36,6 +36,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/PyCharm-333333?&style=flat&logo=PyCharm&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
+  ![Intellif](https://img.shields.io/badge/IntelliJ_IDEA-333333.svg?style=flat&logo=intellij-idea&logoColor=white)
 <!--- 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
